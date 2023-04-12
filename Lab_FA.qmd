@@ -56,7 +56,7 @@ data <- read_csv("https://raw.githubusercontent.com/doomlab/learnSEM/master/vign
 
 ## Exploratory Factor Analysis
 
-1.  Explore the data. Make sure there are no missing data points and get rid of outliers. Look at a correlation matrix or plot.
+1.  Explore the data. Make sure there are no missing data points and get rid of outliers. Look at a correlation matrix.
 
     ```{r}
 
